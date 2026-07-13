@@ -1,17 +1,17 @@
 {
   "mode": "live",
-  "generatedAt": "2026-07-13T03:42:45.120Z",
-  "latestCompleteAt": "2026-07-13T03:42:44.710Z",
+  "generatedAt": "2026-07-13T03:49:49.788Z",
+  "latestCompleteAt": "2026-07-13T03:49:49.425Z",
   "sourceHealth": {
     "google": {
       "health": "healthy",
-      "updatedAt": "2026-07-13T03:42:44.710Z",
+      "updatedAt": "2026-07-13T03:49:49.425Z",
       "lastError": null
     },
     "ctrip": {
-      "health": "degraded",
-      "updatedAt": "2026-07-13T03:42:44.710Z",
-      "lastError": "captcha"
+      "health": "healthy",
+      "updatedAt": "2026-07-13T03:49:49.425Z",
+      "lastError": null
     }
   },
   "routes": [
@@ -21,8 +21,8 @@
       "code": "FRA",
       "departureDate": "2026-10-09",
       "googlePrice": null,
-      "ctripPrice": 4231,
-      "directPrice": 8686,
+      "ctripPrice": null,
+      "directPrice": null,
       "priceDifferencePercent": null,
       "trust": "confirmed",
       "effectiveCost": 4857,
@@ -46,63 +46,21 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=zh-CN",
         "trust": "confirmed"
       },
-      "capturedAt": "2026-07-13T03:42:44.710Z",
+      "capturedAt": "2026-07-13T03:49:49.425Z",
       "history": [
-        {
-          "capturedAt": "2026-07-04T06:00:00.000Z",
-          "google": 4708,
-          "ctrip": 4790,
-          "googleDirect": 9460,
-          "ctripDirect": 9718
-        },
-        {
-          "capturedAt": "2026-07-05T06:00:00.000Z",
-          "google": 4581,
-          "ctrip": 4663,
-          "googleDirect": 9202,
-          "ctripDirect": 9460
-        },
-        {
-          "capturedAt": "2026-07-06T06:00:00.000Z",
-          "google": 4623,
-          "ctrip": 4705,
-          "googleDirect": 9288,
-          "ctripDirect": 9546
-        },
-        {
-          "capturedAt": "2026-07-07T06:00:00.000Z",
-          "google": 4455,
-          "ctrip": 4536,
-          "googleDirect": 8944,
-          "ctripDirect": 9202
-        },
-        {
-          "capturedAt": "2026-07-08T06:00:00.000Z",
-          "google": 4371,
-          "ctrip": 4451,
-          "googleDirect": 8772,
-          "ctripDirect": 9030
-        },
-        {
-          "capturedAt": "2026-07-09T06:00:00.000Z",
-          "google": 4287,
-          "ctrip": 4367,
-          "googleDirect": 8600,
-          "ctripDirect": 8858
-        },
-        {
-          "capturedAt": "2026-07-10T06:00:00.000Z",
-          "google": 4203,
-          "ctrip": 4282,
-          "googleDirect": 8428,
-          "ctripDirect": 8686
-        },
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
           "google": null,
           "ctrip": 4231,
           "googleDirect": null,
           "ctripDirect": 8686
+        },
+        {
+          "capturedAt": "2026-07-13T03:49:49.425Z",
+          "google": null,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -137,59 +95,17 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20%E5%B7%B4%E9%BB%8E%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=zh-CN",
         "trust": "confirmed"
       },
-      "capturedAt": "2026-07-13T03:42:44.710Z",
+      "capturedAt": "2026-07-13T03:49:49.425Z",
       "history": [
         {
-          "capturedAt": "2026-07-04T06:00:00.000Z",
-          "google": 4964,
-          "ctrip": 5083,
-          "googleDirect": 11128,
-          "ctripDirect": 11431
-        },
-        {
-          "capturedAt": "2026-07-05T06:00:00.000Z",
-          "google": 4831,
-          "ctrip": 4949,
-          "googleDirect": 10824,
-          "ctripDirect": 11128
-        },
-        {
-          "capturedAt": "2026-07-06T06:00:00.000Z",
-          "google": 4875,
-          "ctrip": 4993,
-          "googleDirect": 10925,
-          "ctripDirect": 11229
-        },
-        {
-          "capturedAt": "2026-07-07T06:00:00.000Z",
-          "google": 4698,
-          "ctrip": 4814,
-          "googleDirect": 10521,
-          "ctripDirect": 10824
-        },
-        {
-          "capturedAt": "2026-07-08T06:00:00.000Z",
-          "google": 4609,
-          "ctrip": 4724,
-          "googleDirect": 10318,
-          "ctripDirect": 10622
-        },
-        {
-          "capturedAt": "2026-07-09T06:00:00.000Z",
-          "google": 4521,
-          "ctrip": 4634,
-          "googleDirect": 10116,
-          "ctripDirect": 10419
-        },
-        {
-          "capturedAt": "2026-07-10T06:00:00.000Z",
-          "google": 4432,
-          "ctrip": 4544,
-          "googleDirect": 9914,
-          "ctripDirect": 10217
-        },
-        {
           "capturedAt": "2026-07-13T03:42:44.710Z",
+          "google": null,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T03:49:49.425Z",
           "google": null,
           "ctrip": null,
           "googleDirect": null,
@@ -223,59 +139,17 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20%E7%B1%B3%E5%85%B0%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=zh-CN",
         "trust": "confirmed"
       },
-      "capturedAt": "2026-07-13T03:42:44.710Z",
+      "capturedAt": "2026-07-13T03:49:49.425Z",
       "history": [
         {
-          "capturedAt": "2026-07-04T06:00:00.000Z",
-          "google": 5915,
-          "ctrip": 6045,
-          "googleDirect": 5613,
-          "ctripDirect": 5766
-        },
-        {
-          "capturedAt": "2026-07-05T06:00:00.000Z",
-          "google": 5757,
-          "ctrip": 5885,
-          "googleDirect": 5460,
-          "ctripDirect": 5613
-        },
-        {
-          "capturedAt": "2026-07-06T06:00:00.000Z",
-          "google": 5810,
-          "ctrip": 5938,
-          "googleDirect": 5511,
-          "ctripDirect": 5664
-        },
-        {
-          "capturedAt": "2026-07-07T06:00:00.000Z",
-          "google": 5599,
-          "ctrip": 5725,
-          "googleDirect": 5307,
-          "ctripDirect": 5460
-        },
-        {
-          "capturedAt": "2026-07-08T06:00:00.000Z",
-          "google": 5493,
-          "ctrip": 5618,
-          "googleDirect": 5205,
-          "ctripDirect": 5358
-        },
-        {
-          "capturedAt": "2026-07-09T06:00:00.000Z",
-          "google": 5387,
-          "ctrip": 5511,
-          "googleDirect": 5103,
-          "ctripDirect": 5256
-        },
-        {
-          "capturedAt": "2026-07-10T06:00:00.000Z",
-          "google": 5282,
-          "ctrip": 5404,
-          "googleDirect": 5001,
-          "ctripDirect": 5154
-        },
-        {
           "capturedAt": "2026-07-13T03:42:44.710Z",
+          "google": null,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T03:49:49.425Z",
           "google": null,
           "ctrip": null,
           "googleDirect": null,
@@ -314,59 +188,17 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20%E7%BD%97%E9%A9%AC%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=zh-CN",
         "trust": "confirmed"
       },
-      "capturedAt": "2026-07-13T03:42:44.710Z",
+      "capturedAt": "2026-07-13T03:49:49.425Z",
       "history": [
         {
-          "capturedAt": "2026-07-04T06:00:00.000Z",
-          "google": 6152,
-          "ctrip": 6312,
-          "googleDirect": null,
-          "ctripDirect": null
-        },
-        {
-          "capturedAt": "2026-07-05T06:00:00.000Z",
-          "google": 5987,
-          "ctrip": 6145,
-          "googleDirect": null,
-          "ctripDirect": null
-        },
-        {
-          "capturedAt": "2026-07-06T06:00:00.000Z",
-          "google": 6042,
-          "ctrip": 6201,
-          "googleDirect": null,
-          "ctripDirect": null
-        },
-        {
-          "capturedAt": "2026-07-07T06:00:00.000Z",
-          "google": 5822,
-          "ctrip": 5977,
-          "googleDirect": null,
-          "ctripDirect": null
-        },
-        {
-          "capturedAt": "2026-07-08T06:00:00.000Z",
-          "google": 5712,
-          "ctrip": 5866,
-          "googleDirect": null,
-          "ctripDirect": null
-        },
-        {
-          "capturedAt": "2026-07-09T06:00:00.000Z",
-          "google": 5603,
-          "ctrip": 5754,
-          "googleDirect": null,
-          "ctripDirect": null
-        },
-        {
-          "capturedAt": "2026-07-10T06:00:00.000Z",
-          "google": 5493,
-          "ctrip": 5643,
-          "googleDirect": null,
-          "ctripDirect": null
-        },
-        {
           "capturedAt": "2026-07-13T03:42:44.710Z",
+          "google": null,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T03:49:49.425Z",
           "google": null,
           "ctrip": null,
           "googleDirect": null,
@@ -405,59 +237,17 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20%E8%8B%8F%E9%BB%8E%E4%B8%96%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=zh-CN",
         "trust": "confirmed"
       },
-      "capturedAt": "2026-07-13T03:42:44.710Z",
+      "capturedAt": "2026-07-13T03:49:49.425Z",
       "history": [
         {
-          "capturedAt": "2026-07-04T06:00:00.000Z",
-          "google": 6851,
-          "ctrip": 6997,
-          "googleDirect": 9834,
-          "ctripDirect": 10102
-        },
-        {
-          "capturedAt": "2026-07-05T06:00:00.000Z",
-          "google": 6667,
-          "ctrip": 6811,
-          "googleDirect": 9566,
-          "ctripDirect": 9834
-        },
-        {
-          "capturedAt": "2026-07-06T06:00:00.000Z",
-          "google": 6729,
-          "ctrip": 6873,
-          "googleDirect": 9655,
-          "ctripDirect": 9923
-        },
-        {
-          "capturedAt": "2026-07-07T06:00:00.000Z",
-          "google": 6484,
-          "ctrip": 6626,
-          "googleDirect": 9298,
-          "ctripDirect": 9566
-        },
-        {
-          "capturedAt": "2026-07-08T06:00:00.000Z",
-          "google": 6362,
-          "ctrip": 6502,
-          "googleDirect": 9119,
-          "ctripDirect": 9387
-        },
-        {
-          "capturedAt": "2026-07-09T06:00:00.000Z",
-          "google": 6239,
-          "ctrip": 6379,
-          "googleDirect": 8940,
-          "ctripDirect": 9208
-        },
-        {
-          "capturedAt": "2026-07-10T06:00:00.000Z",
-          "google": 6117,
-          "ctrip": 6255,
-          "googleDirect": 8761,
-          "ctripDirect": 9029
-        },
-        {
           "capturedAt": "2026-07-13T03:42:44.710Z",
+          "google": null,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T03:49:49.425Z",
           "google": null,
           "ctrip": null,
           "googleDirect": null,
@@ -496,59 +286,17 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20%E7%BB%B4%E4%B9%9F%E7%BA%B3%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=zh-CN",
         "trust": "confirmed"
       },
-      "capturedAt": "2026-07-13T03:42:44.710Z",
+      "capturedAt": "2026-07-13T03:49:49.425Z",
       "history": [
         {
-          "capturedAt": "2026-07-04T06:00:00.000Z",
-          "google": 6561,
-          "ctrip": 6729,
-          "googleDirect": 9350,
-          "ctripDirect": 9605
-        },
-        {
-          "capturedAt": "2026-07-05T06:00:00.000Z",
-          "google": 6385,
-          "ctrip": 6550,
-          "googleDirect": 9095,
-          "ctripDirect": 9350
-        },
-        {
-          "capturedAt": "2026-07-06T06:00:00.000Z",
-          "google": 6444,
-          "ctrip": 6610,
-          "googleDirect": 9180,
-          "ctripDirect": 9435
-        },
-        {
-          "capturedAt": "2026-07-07T06:00:00.000Z",
-          "google": 6210,
-          "ctrip": 6372,
-          "googleDirect": 8840,
-          "ctripDirect": 9095
-        },
-        {
-          "capturedAt": "2026-07-08T06:00:00.000Z",
-          "google": 6092,
-          "ctrip": 6253,
-          "googleDirect": 8670,
-          "ctripDirect": 8925
-        },
-        {
-          "capturedAt": "2026-07-09T06:00:00.000Z",
-          "google": 5975,
-          "ctrip": 6134,
-          "googleDirect": 8500,
-          "ctripDirect": 8755
-        },
-        {
-          "capturedAt": "2026-07-10T06:00:00.000Z",
-          "google": 5858,
-          "ctrip": 6015,
-          "googleDirect": 8330,
-          "ctripDirect": 8585
-        },
-        {
           "capturedAt": "2026-07-13T03:42:44.710Z",
+          "google": null,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T03:49:49.425Z",
           "google": null,
           "ctrip": null,
           "googleDirect": null,
@@ -587,59 +335,17 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20%E5%B8%83%E8%BE%BE%E4%BD%A9%E6%96%AF%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=zh-CN",
         "trust": "confirmed"
       },
-      "capturedAt": "2026-07-13T03:42:44.710Z",
+      "capturedAt": "2026-07-13T03:49:49.425Z",
       "history": [
         {
-          "capturedAt": "2026-07-04T06:00:00.000Z",
-          "google": 4891,
-          "ctrip": 5066,
-          "googleDirect": 7802,
-          "ctripDirect": 8015
-        },
-        {
-          "capturedAt": "2026-07-05T06:00:00.000Z",
-          "google": 4760,
-          "ctrip": 4932,
-          "googleDirect": 7590,
-          "ctripDirect": 7802
-        },
-        {
-          "capturedAt": "2026-07-06T06:00:00.000Z",
-          "google": 4803,
-          "ctrip": 4976,
-          "googleDirect": 7660,
-          "ctripDirect": 7873
-        },
-        {
-          "capturedAt": "2026-07-07T06:00:00.000Z",
-          "google": 4629,
-          "ctrip": 4797,
-          "googleDirect": 7377,
-          "ctripDirect": 7590
-        },
-        {
-          "capturedAt": "2026-07-08T06:00:00.000Z",
-          "google": 4541,
-          "ctrip": 4708,
-          "googleDirect": 7235,
-          "ctripDirect": 7448
-        },
-        {
-          "capturedAt": "2026-07-09T06:00:00.000Z",
-          "google": 4454,
-          "ctrip": 4618,
-          "googleDirect": 7093,
-          "ctripDirect": 7306
-        },
-        {
-          "capturedAt": "2026-07-10T06:00:00.000Z",
-          "google": 4367,
-          "ctrip": 4529,
-          "googleDirect": 6951,
-          "ctripDirect": 7164
-        },
-        {
           "capturedAt": "2026-07-13T03:42:44.710Z",
+          "google": null,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T03:49:49.425Z",
           "google": null,
           "ctrip": null,
           "googleDirect": null,
@@ -677,59 +383,17 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Frankfurt%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T03:42:44.710Z",
+      "capturedAt": "2026-07-13T03:49:49.425Z",
       "history": [
         {
-          "capturedAt": "2026-07-04T06:00:00.000Z",
-          "google": 4548,
-          "ctrip": 4673,
-          "googleDirect": 9460,
-          "ctripDirect": 9718
-        },
-        {
-          "capturedAt": "2026-07-05T06:00:00.000Z",
-          "google": 4426,
-          "ctrip": 4549,
-          "googleDirect": 9202,
-          "ctripDirect": 9460
-        },
-        {
-          "capturedAt": "2026-07-06T06:00:00.000Z",
-          "google": 4467,
-          "ctrip": 4590,
-          "googleDirect": 9288,
-          "ctripDirect": 9546
-        },
-        {
-          "capturedAt": "2026-07-07T06:00:00.000Z",
-          "google": 4305,
-          "ctrip": 4425,
-          "googleDirect": 8944,
-          "ctripDirect": 9202
-        },
-        {
-          "capturedAt": "2026-07-08T06:00:00.000Z",
-          "google": 4223,
-          "ctrip": 4343,
-          "googleDirect": 8772,
-          "ctripDirect": 9030
-        },
-        {
-          "capturedAt": "2026-07-09T06:00:00.000Z",
-          "google": 4142,
-          "ctrip": 4260,
-          "googleDirect": 8600,
-          "ctripDirect": 8858
-        },
-        {
-          "capturedAt": "2026-07-10T06:00:00.000Z",
-          "google": 4061,
-          "ctrip": 4178,
-          "googleDirect": 8428,
-          "ctripDirect": 8686
-        },
-        {
           "capturedAt": "2026-07-13T03:42:44.710Z",
+          "google": 5236,
+          "ctrip": null,
+          "googleDirect": 12045,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T03:49:49.425Z",
           "google": 5236,
           "ctrip": null,
           "googleDirect": 12045,
@@ -767,59 +431,17 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Paris%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T03:42:44.710Z",
+      "capturedAt": "2026-07-13T03:49:49.425Z",
       "history": [
         {
-          "capturedAt": "2026-07-04T06:00:00.000Z",
-          "google": 4796,
-          "ctrip": 4959,
-          "googleDirect": 11128,
-          "ctripDirect": 11431
-        },
-        {
-          "capturedAt": "2026-07-05T06:00:00.000Z",
-          "google": 4667,
-          "ctrip": 4828,
-          "googleDirect": 10824,
-          "ctripDirect": 11128
-        },
-        {
-          "capturedAt": "2026-07-06T06:00:00.000Z",
-          "google": 4710,
-          "ctrip": 4872,
-          "googleDirect": 10925,
-          "ctripDirect": 11229
-        },
-        {
-          "capturedAt": "2026-07-07T06:00:00.000Z",
-          "google": 4539,
-          "ctrip": 4696,
-          "googleDirect": 10521,
-          "ctripDirect": 10824
-        },
-        {
-          "capturedAt": "2026-07-08T06:00:00.000Z",
-          "google": 4453,
-          "ctrip": 4609,
-          "googleDirect": 10318,
-          "ctripDirect": 10622
-        },
-        {
-          "capturedAt": "2026-07-09T06:00:00.000Z",
-          "google": 4368,
-          "ctrip": 4521,
-          "googleDirect": 10116,
-          "ctripDirect": 10419
-        },
-        {
-          "capturedAt": "2026-07-10T06:00:00.000Z",
-          "google": 4282,
-          "ctrip": 4434,
-          "googleDirect": 9914,
-          "ctripDirect": 10217
-        },
-        {
           "capturedAt": "2026-07-13T03:42:44.710Z",
+          "google": 5635,
+          "ctrip": null,
+          "googleDirect": 14748,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T03:49:49.425Z",
           "google": 5635,
           "ctrip": null,
           "googleDirect": 14748,
@@ -857,59 +479,17 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Milan%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T03:42:44.710Z",
+      "capturedAt": "2026-07-13T03:49:49.425Z",
       "history": [
         {
-          "capturedAt": "2026-07-04T06:00:00.000Z",
-          "google": 5715,
-          "ctrip": 5898,
-          "googleDirect": 5613,
-          "ctripDirect": 5766
-        },
-        {
-          "capturedAt": "2026-07-05T06:00:00.000Z",
-          "google": 5562,
-          "ctrip": 5741,
-          "googleDirect": 5460,
-          "ctripDirect": 5613
-        },
-        {
-          "capturedAt": "2026-07-06T06:00:00.000Z",
-          "google": 5613,
-          "ctrip": 5794,
-          "googleDirect": 5511,
-          "ctripDirect": 5664
-        },
-        {
-          "capturedAt": "2026-07-07T06:00:00.000Z",
-          "google": 5409,
-          "ctrip": 5585,
-          "googleDirect": 5307,
-          "ctripDirect": 5460
-        },
-        {
-          "capturedAt": "2026-07-08T06:00:00.000Z",
-          "google": 5307,
-          "ctrip": 5481,
-          "googleDirect": 5205,
-          "ctripDirect": 5358
-        },
-        {
-          "capturedAt": "2026-07-09T06:00:00.000Z",
-          "google": 5205,
-          "ctrip": 5377,
-          "googleDirect": 5103,
-          "ctripDirect": 5256
-        },
-        {
-          "capturedAt": "2026-07-10T06:00:00.000Z",
-          "google": 5103,
-          "ctrip": 5273,
-          "googleDirect": 5001,
-          "ctripDirect": 5154
-        },
-        {
           "capturedAt": "2026-07-13T03:42:44.710Z",
+          "google": 5246,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T03:49:49.425Z",
           "google": 5246,
           "ctrip": null,
           "googleDirect": null,
@@ -947,59 +527,17 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Rome%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T03:42:44.710Z",
+      "capturedAt": "2026-07-13T03:49:49.425Z",
       "history": [
         {
-          "capturedAt": "2026-07-04T06:00:00.000Z",
-          "google": 5944,
-          "ctrip": 6158,
-          "googleDirect": null,
-          "ctripDirect": null
-        },
-        {
-          "capturedAt": "2026-07-05T06:00:00.000Z",
-          "google": 5785,
-          "ctrip": 5995,
-          "googleDirect": null,
-          "ctripDirect": null
-        },
-        {
-          "capturedAt": "2026-07-06T06:00:00.000Z",
-          "google": 5838,
-          "ctrip": 6049,
-          "googleDirect": null,
-          "ctripDirect": null
-        },
-        {
-          "capturedAt": "2026-07-07T06:00:00.000Z",
-          "google": 5625,
-          "ctrip": 5832,
-          "googleDirect": null,
-          "ctripDirect": null
-        },
-        {
-          "capturedAt": "2026-07-08T06:00:00.000Z",
-          "google": 5519,
-          "ctrip": 5723,
-          "googleDirect": null,
-          "ctripDirect": null
-        },
-        {
-          "capturedAt": "2026-07-09T06:00:00.000Z",
-          "google": 5413,
-          "ctrip": 5614,
-          "googleDirect": null,
-          "ctripDirect": null
-        },
-        {
-          "capturedAt": "2026-07-10T06:00:00.000Z",
-          "google": 5307,
-          "ctrip": 5505,
-          "googleDirect": null,
-          "ctripDirect": null
-        },
-        {
           "capturedAt": "2026-07-13T03:42:44.710Z",
+          "google": 5270,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T03:49:49.425Z",
           "google": 5270,
           "ctrip": null,
           "googleDirect": null,
@@ -1037,59 +575,17 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Zurich%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T03:42:44.710Z",
+      "capturedAt": "2026-07-13T03:49:49.425Z",
       "history": [
         {
-          "capturedAt": "2026-07-04T06:00:00.000Z",
-          "google": 6619,
-          "ctrip": 6826,
-          "googleDirect": 9834,
-          "ctripDirect": 10102
-        },
-        {
-          "capturedAt": "2026-07-05T06:00:00.000Z",
-          "google": 6442,
-          "ctrip": 6645,
-          "googleDirect": 9566,
-          "ctripDirect": 9834
-        },
-        {
-          "capturedAt": "2026-07-06T06:00:00.000Z",
-          "google": 6501,
-          "ctrip": 6705,
-          "googleDirect": 9655,
-          "ctripDirect": 9923
-        },
-        {
-          "capturedAt": "2026-07-07T06:00:00.000Z",
-          "google": 6265,
-          "ctrip": 6464,
-          "googleDirect": 9298,
-          "ctripDirect": 9566
-        },
-        {
-          "capturedAt": "2026-07-08T06:00:00.000Z",
-          "google": 6146,
-          "ctrip": 6344,
-          "googleDirect": 9119,
-          "ctripDirect": 9387
-        },
-        {
-          "capturedAt": "2026-07-09T06:00:00.000Z",
-          "google": 6028,
-          "ctrip": 6223,
-          "googleDirect": 8940,
-          "ctripDirect": 9208
-        },
-        {
-          "capturedAt": "2026-07-10T06:00:00.000Z",
-          "google": 5910,
-          "ctrip": 6102,
-          "googleDirect": 8761,
-          "ctripDirect": 9029
-        },
-        {
           "capturedAt": "2026-07-13T03:42:44.710Z",
+          "google": 5853,
+          "ctrip": null,
+          "googleDirect": 13002,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T03:49:49.425Z",
           "google": 5853,
           "ctrip": null,
           "googleDirect": 13002,
@@ -1122,59 +618,17 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Vienna%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T03:42:44.710Z",
+      "capturedAt": "2026-07-13T03:49:49.425Z",
       "history": [
         {
-          "capturedAt": "2026-07-04T06:00:00.000Z",
-          "google": 6339,
-          "ctrip": 6564,
-          "googleDirect": 9350,
-          "ctripDirect": 9605
-        },
-        {
-          "capturedAt": "2026-07-05T06:00:00.000Z",
-          "google": 6169,
-          "ctrip": 6390,
-          "googleDirect": 9095,
-          "ctripDirect": 9350
-        },
-        {
-          "capturedAt": "2026-07-06T06:00:00.000Z",
-          "google": 6226,
-          "ctrip": 6448,
-          "googleDirect": 9180,
-          "ctripDirect": 9435
-        },
-        {
-          "capturedAt": "2026-07-07T06:00:00.000Z",
-          "google": 6000,
-          "ctrip": 6217,
-          "googleDirect": 8840,
-          "ctripDirect": 9095
-        },
-        {
-          "capturedAt": "2026-07-08T06:00:00.000Z",
-          "google": 5886,
-          "ctrip": 6101,
-          "googleDirect": 8670,
-          "ctripDirect": 8925
-        },
-        {
-          "capturedAt": "2026-07-09T06:00:00.000Z",
-          "google": 5773,
-          "ctrip": 5985,
-          "googleDirect": 8500,
-          "ctripDirect": 8755
-        },
-        {
-          "capturedAt": "2026-07-10T06:00:00.000Z",
-          "google": 5660,
-          "ctrip": 5869,
-          "googleDirect": 8330,
-          "ctripDirect": 8585
-        },
-        {
           "capturedAt": "2026-07-13T03:42:44.710Z",
+          "google": 5111,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T03:49:49.425Z",
           "google": 5111,
           "ctrip": null,
           "googleDirect": null,
@@ -1212,59 +666,17 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Budapest%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T03:42:44.710Z",
+      "capturedAt": "2026-07-13T03:49:49.425Z",
       "history": [
         {
-          "capturedAt": "2026-07-04T06:00:00.000Z",
-          "google": 4725,
-          "ctrip": 4942,
-          "googleDirect": 7802,
-          "ctripDirect": 8015
-        },
-        {
-          "capturedAt": "2026-07-05T06:00:00.000Z",
-          "google": 4599,
-          "ctrip": 4811,
-          "googleDirect": 7590,
-          "ctripDirect": 7802
-        },
-        {
-          "capturedAt": "2026-07-06T06:00:00.000Z",
-          "google": 4641,
-          "ctrip": 4855,
-          "googleDirect": 7660,
-          "ctripDirect": 7873
-        },
-        {
-          "capturedAt": "2026-07-07T06:00:00.000Z",
-          "google": 4472,
-          "ctrip": 4680,
-          "googleDirect": 7377,
-          "ctripDirect": 7590
-        },
-        {
-          "capturedAt": "2026-07-08T06:00:00.000Z",
-          "google": 4388,
-          "ctrip": 4593,
-          "googleDirect": 7235,
-          "ctripDirect": 7448
-        },
-        {
-          "capturedAt": "2026-07-09T06:00:00.000Z",
-          "google": 4303,
-          "ctrip": 4506,
-          "googleDirect": 7093,
-          "ctripDirect": 7306
-        },
-        {
-          "capturedAt": "2026-07-10T06:00:00.000Z",
-          "google": 4219,
-          "ctrip": 4418,
-          "googleDirect": 6951,
-          "ctripDirect": 7164
-        },
-        {
           "capturedAt": "2026-07-13T03:42:44.710Z",
+          "google": 5058,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T03:49:49.425Z",
           "google": 5058,
           "ctrip": null,
           "googleDirect": null,
