@@ -1,11 +1,11 @@
 {
   "mode": "live",
-  "generatedAt": "2026-07-13T09:45:04.967Z",
+  "generatedAt": "2026-07-13T09:49:23.603Z",
   "latestCompleteAt": "2026-07-13T09:45:04.524Z",
   "sourceHealth": {
     "google": {
       "health": "healthy",
-      "updatedAt": "2026-07-13T09:45:04.524Z",
+      "updatedAt": "2026-07-13T09:49:23.603Z",
       "lastError": null
     },
     "ctrip": {
@@ -914,32 +914,33 @@
       "label": "布达佩斯",
       "code": "BUD",
       "departureDate": "2026-10-10",
-      "googlePrice": 6205,
+      "googlePrice": 4267,
       "ctripPrice": null,
       "directPrice": null,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 7418,
+      "effectiveCost": 5367,
       "bestOffer": {
         "source": "google",
-        "airline": "China Southern",
+        "airline": "Air China",
         "originAirport": "BUD",
-        "destinationAirport": "PVG",
-        "departureAt": "2026-10-10T12:45:00+02:00",
-        "arrivalAt": "2026-10-11T13:00:00+08:00",
-        "priceCny": 6205,
+        "destinationAirport": "SHA",
+        "departureAt": "2026-10-10T13:00:00+02:00",
+        "arrivalAt": "2026-10-11T10:00:00+08:00",
+        "priceCny": 4267,
         "stops": 1,
-        "durationMinutes": 1095,
+        "durationMinutes": 900,
         "layovers": [
           {
-            "airport": "CAN",
-            "minutes": 300
+            "airport": "PEK",
+            "minutes": 200
           }
         ],
-        "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Budapest%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
+        "baggageNote": "下单前请在来源网站确认托运行李额度",
+        "deepLink": "https://www.google.com/travel/flights?q=Economy%20flights%20from%20Budapest%20to%20Shanghai%20on%202026-10-10%20one%20way%20with%20Air%20China&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T09:45:04.524Z",
+      "capturedAt": "2026-07-13T09:49:23.603Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -972,6 +973,13 @@
         {
           "capturedAt": "2026-07-13T09:45:04.524Z",
           "google": 6205,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:49:23.603Z",
+          "google": 4267,
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
