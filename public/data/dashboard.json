@@ -1,16 +1,16 @@
 {
   "mode": "live",
-  "generatedAt": "2026-07-13T09:49:23.603Z",
-  "latestCompleteAt": "2026-07-13T09:45:04.524Z",
+  "generatedAt": "2026-07-13T09:58:11.724Z",
+  "latestCompleteAt": "2026-07-13T09:58:11.325Z",
   "sourceHealth": {
     "google": {
-      "health": "healthy",
-      "updatedAt": "2026-07-13T09:49:23.603Z",
-      "lastError": null
+      "health": "degraded",
+      "updatedAt": "2026-07-13T09:58:11.325Z",
+      "lastError": "incomplete_results"
     },
     "ctrip": {
       "health": "healthy",
-      "updatedAt": "2026-07-13T09:45:04.524Z",
+      "updatedAt": "2026-07-13T09:58:11.325Z",
       "lastError": null
     }
   },
@@ -46,7 +46,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=zh-CN",
         "trust": "confirmed"
       },
-      "capturedAt": "2026-07-13T09:45:04.524Z",
+      "capturedAt": "2026-07-13T09:58:11.325Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -78,6 +78,13 @@
         },
         {
           "capturedAt": "2026-07-13T09:45:04.524Z",
+          "google": null,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:58:11.325Z",
           "google": null,
           "ctrip": null,
           "googleDirect": null,
@@ -116,7 +123,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20%E5%B7%B4%E9%BB%8E%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=zh-CN",
         "trust": "confirmed"
       },
-      "capturedAt": "2026-07-13T09:45:04.524Z",
+      "capturedAt": "2026-07-13T09:58:11.325Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -148,6 +155,13 @@
         },
         {
           "capturedAt": "2026-07-13T09:45:04.524Z",
+          "google": null,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:58:11.325Z",
           "google": null,
           "ctrip": null,
           "googleDirect": null,
@@ -181,7 +195,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20%E7%B1%B3%E5%85%B0%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=zh-CN",
         "trust": "confirmed"
       },
-      "capturedAt": "2026-07-13T09:45:04.524Z",
+      "capturedAt": "2026-07-13T09:58:11.325Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -213,6 +227,13 @@
         },
         {
           "capturedAt": "2026-07-13T09:45:04.524Z",
+          "google": null,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:58:11.325Z",
           "google": null,
           "ctrip": null,
           "googleDirect": null,
@@ -251,7 +272,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20%E7%BD%97%E9%A9%AC%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=zh-CN",
         "trust": "confirmed"
       },
-      "capturedAt": "2026-07-13T09:45:04.524Z",
+      "capturedAt": "2026-07-13T09:58:11.325Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -283,6 +304,13 @@
         },
         {
           "capturedAt": "2026-07-13T09:45:04.524Z",
+          "google": null,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:58:11.325Z",
           "google": null,
           "ctrip": null,
           "googleDirect": null,
@@ -321,7 +349,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20%E8%8B%8F%E9%BB%8E%E4%B8%96%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=zh-CN",
         "trust": "confirmed"
       },
-      "capturedAt": "2026-07-13T09:45:04.524Z",
+      "capturedAt": "2026-07-13T09:58:11.325Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -353,6 +381,13 @@
         },
         {
           "capturedAt": "2026-07-13T09:45:04.524Z",
+          "google": null,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:58:11.325Z",
           "google": null,
           "ctrip": null,
           "googleDirect": null,
@@ -391,7 +426,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20%E7%BB%B4%E4%B9%9F%E7%BA%B3%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=zh-CN",
         "trust": "confirmed"
       },
-      "capturedAt": "2026-07-13T09:45:04.524Z",
+      "capturedAt": "2026-07-13T09:58:11.325Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -423,6 +458,13 @@
         },
         {
           "capturedAt": "2026-07-13T09:45:04.524Z",
+          "google": null,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:58:11.325Z",
           "google": null,
           "ctrip": null,
           "googleDirect": null,
@@ -461,7 +503,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20%E5%B8%83%E8%BE%BE%E4%BD%A9%E6%96%AF%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=zh-CN",
         "trust": "confirmed"
       },
-      "capturedAt": "2026-07-13T09:45:04.524Z",
+      "capturedAt": "2026-07-13T09:58:11.325Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -493,6 +535,13 @@
         },
         {
           "capturedAt": "2026-07-13T09:45:04.524Z",
+          "google": null,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:58:11.325Z",
           "google": null,
           "ctrip": null,
           "googleDirect": null,
@@ -530,7 +579,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Frankfurt%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T09:45:04.524Z",
+      "capturedAt": "2026-07-13T09:58:11.325Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -562,6 +611,13 @@
         },
         {
           "capturedAt": "2026-07-13T09:45:04.524Z",
+          "google": 6200,
+          "ctrip": null,
+          "googleDirect": 12126,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:58:11.325Z",
           "google": 6200,
           "ctrip": null,
           "googleDirect": 12126,
@@ -599,7 +655,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Paris%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T09:45:04.524Z",
+      "capturedAt": "2026-07-13T09:58:11.325Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -631,6 +687,13 @@
         },
         {
           "capturedAt": "2026-07-13T09:45:04.524Z",
+          "google": 5655,
+          "ctrip": null,
+          "googleDirect": 14800,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:58:11.325Z",
           "google": 5655,
           "ctrip": null,
           "googleDirect": 14800,
@@ -668,7 +731,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Milan%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T09:45:04.524Z",
+      "capturedAt": "2026-07-13T09:58:11.325Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -700,6 +763,13 @@
         },
         {
           "capturedAt": "2026-07-13T09:45:04.524Z",
+          "google": 5265,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:58:11.325Z",
           "google": 5265,
           "ctrip": null,
           "googleDirect": null,
@@ -737,7 +807,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Rome%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T09:45:04.524Z",
+      "capturedAt": "2026-07-13T09:58:11.325Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -769,6 +839,13 @@
         },
         {
           "capturedAt": "2026-07-13T09:45:04.524Z",
+          "google": 5289,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:58:11.325Z",
           "google": 5289,
           "ctrip": null,
           "googleDirect": null,
@@ -806,7 +883,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Zurich%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T09:45:04.524Z",
+      "capturedAt": "2026-07-13T09:58:11.325Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -838,6 +915,13 @@
         },
         {
           "capturedAt": "2026-07-13T09:45:04.524Z",
+          "google": 5865,
+          "ctrip": null,
+          "googleDirect": 13072,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:58:11.325Z",
           "google": 5865,
           "ctrip": null,
           "googleDirect": 13072,
@@ -870,7 +954,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Vienna%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T09:45:04.524Z",
+      "capturedAt": "2026-07-13T09:58:11.325Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -902,6 +986,13 @@
         },
         {
           "capturedAt": "2026-07-13T09:45:04.524Z",
+          "google": 5129,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:58:11.325Z",
           "google": 5129,
           "ctrip": null,
           "googleDirect": null,
@@ -940,7 +1031,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Economy%20flights%20from%20Budapest%20to%20Shanghai%20on%202026-10-10%20one%20way%20with%20Air%20China&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-07-13T09:49:23.603Z",
+      "capturedAt": "2026-07-13T09:58:11.325Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -980,6 +1071,13 @@
         {
           "capturedAt": "2026-07-13T09:49:23.603Z",
           "google": 4267,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-07-13T09:58:11.325Z",
+          "google": null,
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
