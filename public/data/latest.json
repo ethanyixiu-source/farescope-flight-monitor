@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T08:33:27.669Z",
-  "latestCompleteAt": "2026-08-08T08:33:27.321Z",
+  "generatedAt": "2026-08-08T14:34:25.463Z",
+  "latestCompleteAt": "2026-08-08T14:34:25.042Z",
   "sourceHealth": {
     "google": {
       "health": "degraded",
-      "updatedAt": "2026-08-08T08:33:27.321Z",
+      "updatedAt": "2026-08-08T14:34:25.042Z",
       "lastError": "incomplete_results"
     },
     "ctrip": {
       "health": "restricted",
-      "updatedAt": "2026-08-08T08:33:27.321Z",
+      "updatedAt": "2026-08-08T14:34:25.042Z",
       "lastError": "results_not_detected"
     }
   },
@@ -45,7 +45,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Frankfurt%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-08-08T08:33:27.321Z"
+      "capturedAt": "2026-08-08T14:34:25.042Z"
     },
     {
       "originCity": "paris",
@@ -72,7 +72,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Paris%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-08-08T08:33:27.321Z"
+      "capturedAt": "2026-08-08T14:34:25.042Z"
     },
     {
       "originCity": "milan",
@@ -99,51 +99,46 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Milan%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-08-08T08:33:27.321Z"
+      "capturedAt": "2026-08-08T14:34:25.042Z"
     },
     {
       "originCity": "rome",
       "label": "罗马",
       "code": "ROM",
       "departureDate": "2026-10-09",
-      "googlePrice": 6115,
+      "googlePrice": 7601,
       "ctripPrice": null,
       "directPrice": null,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 8557,
+      "effectiveCost": 9134,
       "bestOffer": {
         "source": "google",
-        "airline": "ITA and China Southern",
+        "airline": "Aegean and Juneyao Airlines",
         "originAirport": "FCO",
-        "destinationAirport": "SHA",
-        "departureAt": "2026-10-09T21:30:00+02:00",
-        "arrivalAt": "2026-10-11T10:20:00+08:00",
-        "priceCny": 6115,
-        "stops": 2,
-        "durationMinutes": 1850,
-        "layovers": [
-          {
-            "airport": "CAN",
-            "minutes": 130
-          }
-        ],
+        "destinationAirport": "PVG",
+        "departureAt": "2026-10-09T22:25:00+02:00",
+        "arrivalAt": "2026-10-11T05:05:00+08:00",
+        "priceCny": 7601,
+        "stops": 1,
+        "durationMinutes": 1480,
+        "layovers": [],
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Rome%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-08-08T08:33:27.321Z"
+      "capturedAt": "2026-08-08T14:34:25.042Z"
     },
     {
       "originCity": "zurich",
       "label": "苏黎世",
       "code": "ZRH",
       "departureDate": "2026-10-09",
-      "googlePrice": 7743,
+      "googlePrice": 7921,
       "ctripPrice": null,
       "directPrice": null,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 9686,
+      "effectiveCost": 9700,
       "bestOffer": {
         "source": "google",
         "airline": "Turkish Airlines",
@@ -151,7 +146,7 @@
         "destinationAirport": "PVG",
         "departureAt": "2026-10-09T18:50:00+02:00",
         "arrivalAt": "2026-10-11T06:25:00+08:00",
-        "priceCny": 7907,
+        "priceCny": 7921,
         "stops": 1,
         "durationMinutes": 1775,
         "layovers": [
@@ -163,7 +158,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Zurich%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-08-08T08:33:27.321Z"
+      "capturedAt": "2026-08-08T14:34:25.042Z"
     },
     {
       "originCity": "vienna",
@@ -195,7 +190,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Vienna%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-08-08T08:33:27.321Z"
+      "capturedAt": "2026-08-08T14:34:25.042Z"
     },
     {
       "originCity": "budapest",
@@ -227,7 +222,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Budapest%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-08-08T08:33:27.321Z"
+      "capturedAt": "2026-08-08T14:34:25.042Z"
     },
     {
       "originCity": "frankfurt",
@@ -259,7 +254,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Frankfurt%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-08-08T08:33:27.321Z"
+      "capturedAt": "2026-08-08T14:34:25.042Z"
     },
     {
       "originCity": "paris",
@@ -295,7 +290,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Paris%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-08-08T08:33:27.321Z"
+      "capturedAt": "2026-08-08T14:34:25.042Z"
     },
     {
       "originCity": "milan",
@@ -327,66 +322,71 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Milan%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-08-08T08:33:27.321Z"
+      "capturedAt": "2026-08-08T14:34:25.042Z"
     },
     {
       "originCity": "rome",
       "label": "罗马",
       "code": "ROM",
       "departureDate": "2026-10-10",
-      "googlePrice": 5339,
+      "googlePrice": 4153,
       "ctripPrice": null,
       "directPrice": null,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 6674,
+      "effectiveCost": 6141,
       "bestOffer": {
         "source": "google",
-        "airline": "ITA and SWISS",
+        "airline": "ITA and China Southern",
         "originAirport": "FCO",
-        "destinationAirport": "PVG",
-        "departureAt": "2026-10-10T08:30:00+02:00",
-        "arrivalAt": "2026-10-11T06:30:00+08:00",
-        "priceCny": 5574,
-        "stops": 1,
-        "durationMinutes": 960,
-        "layovers": [],
+        "destinationAirport": "SHA",
+        "departureAt": "2026-10-10T14:35:00+02:00",
+        "arrivalAt": "2026-10-11T18:20:00+08:00",
+        "priceCny": 4153,
+        "stops": 2,
+        "durationMinutes": 1305,
+        "layovers": [
+          {
+            "airport": "PKX",
+            "minutes": 155
+          }
+        ],
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Rome%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-08-08T08:33:27.321Z"
+      "capturedAt": "2026-08-08T14:34:25.042Z"
     },
     {
       "originCity": "zurich",
       "label": "苏黎世",
       "code": "ZRH",
       "departureDate": "2026-10-10",
-      "googlePrice": 6797,
+      "googlePrice": 7315,
       "ctripPrice": null,
-      "directPrice": 13004,
+      "directPrice": 13028,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 8101,
+      "effectiveCost": 8461,
       "bestOffer": {
         "source": "google",
-        "airline": "EgyptAir",
+        "airline": "Etihad",
         "originAirport": "ZRH",
         "destinationAirport": "PVG",
-        "departureAt": "2026-10-10T14:55:00+02:00",
-        "arrivalAt": "2026-10-11T17:00:00+08:00",
-        "priceCny": 6797,
+        "departureAt": "2026-10-10T11:10:00+02:00",
+        "arrivalAt": "2026-10-11T10:05:00+08:00",
+        "priceCny": 7315,
         "stops": 1,
-        "durationMinutes": 1205,
+        "durationMinutes": 1015,
         "layovers": [
           {
-            "airport": "CAI",
-            "minutes": 340
+            "airport": "AUH",
+            "minutes": 100
           }
         ],
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Zurich%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-08-08T08:33:27.321Z"
+      "capturedAt": "2026-08-08T14:34:25.042Z"
     },
     {
       "originCity": "vienna",
@@ -413,7 +413,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Vienna%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-08-08T08:33:27.321Z"
+      "capturedAt": "2026-08-08T14:34:25.042Z"
     },
     {
       "originCity": "budapest",
@@ -446,7 +446,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Economy%20flights%20from%20Budapest%20to%20Shanghai%20on%202026-10-10%20one%20way%20with%20Air%20China&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-08-08T08:33:27.321Z"
+      "capturedAt": "2026-08-08T14:34:25.042Z"
     }
   ]
 }
