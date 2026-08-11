@@ -648,6 +648,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-08-11T02:54:43.531Z",
+          "google": 5687,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -1245,6 +1252,13 @@
         },
         {
           "capturedAt": "2026-08-10T19:40:23.396Z",
+          "google": 4128,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-08-11T02:54:43.531Z",
           "google": 4128,
           "ctrip": null,
           "googleDirect": null,
@@ -1853,6 +1867,13 @@
         },
         {
           "capturedAt": "2026-08-10T19:40:23.396Z",
+          "google": 5509,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-08-11T02:54:43.531Z",
           "google": 5509,
           "ctrip": null,
           "googleDirect": null,
@@ -3129,6 +3150,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-08-11T02:54:43.531Z",
+          "google": 7901,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -4380,6 +4408,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-08-11T02:54:43.531Z",
+          "google": 7138,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -5016,6 +5051,13 @@
           "ctrip": null,
           "googleDirect": 12190,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-08-11T02:54:43.531Z",
+          "google": 5348,
+          "ctrip": null,
+          "googleDirect": 10073,
+          "ctripDirect": null
         }
       ]
     },
@@ -5602,6 +5644,13 @@
           "google": 5653,
           "ctrip": null,
           "googleDirect": 14918,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-08-11T02:54:43.531Z",
+          "google": 5652,
+          "ctrip": null,
+          "googleDirect": 14920,
           "ctripDirect": null
         }
       ]
@@ -6201,6 +6250,13 @@
         {
           "capturedAt": "2026-08-10T19:40:23.396Z",
           "google": 4094,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-08-11T02:54:43.531Z",
+          "google": 4095,
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
@@ -6829,6 +6885,13 @@
         },
         {
           "capturedAt": "2026-08-10T19:40:23.396Z",
+          "google": 4147,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-08-11T02:54:43.531Z",
           "google": 4147,
           "ctrip": null,
           "googleDirect": null,
@@ -8115,6 +8178,13 @@
         },
         {
           "capturedAt": "2026-08-10T19:40:23.396Z",
+          "google": 5005,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-08-11T02:54:43.531Z",
           "google": 5005,
           "ctrip": null,
           "googleDirect": null,
