@@ -1,16 +1,16 @@
 {
   "mode": "live",
-  "generatedAt": "2026-09-11T21:21:07.835Z",
-  "latestCompleteAt": "2026-09-11T21:21:07.513Z",
+  "generatedAt": "2026-09-12T04:57:04.820Z",
+  "latestCompleteAt": "2026-09-12T04:57:04.418Z",
   "sourceHealth": {
     "google": {
       "health": "degraded",
-      "updatedAt": "2026-09-11T21:21:07.513Z",
+      "updatedAt": "2026-09-12T04:57:04.418Z",
       "lastError": "incomplete_results"
     },
     "ctrip": {
       "health": "restricted",
-      "updatedAt": "2026-09-11T21:21:07.513Z",
+      "updatedAt": "2026-09-12T04:57:04.418Z",
       "lastError": "results_not_detected"
     }
   },
@@ -20,12 +20,12 @@
       "label": "法兰克福",
       "code": "FRA",
       "departureDate": "2026-10-09",
-      "googlePrice": 7500,
+      "googlePrice": 7508,
       "ctripPrice": null,
       "directPrice": null,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 9154,
+      "effectiveCost": 9162,
       "bestOffer": {
         "source": "google",
         "airline": "THAI",
@@ -33,7 +33,7 @@
         "destinationAirport": "PVG",
         "departureAt": "2026-10-09T20:40:00+02:00",
         "arrivalAt": "2026-10-11T05:45:00+08:00",
-        "priceCny": 7500,
+        "priceCny": 7508,
         "stops": 1,
         "durationMinutes": 1625,
         "layovers": [
@@ -45,7 +45,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Frankfurt%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-09-11T21:21:07.513Z",
+      "capturedAt": "2026-09-12T04:57:04.418Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -1516,6 +1516,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-12T04:57:04.418Z",
+          "google": 7508,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -1524,12 +1531,12 @@
       "label": "巴黎",
       "code": "PAR",
       "departureDate": "2026-10-09",
-      "googlePrice": 4121,
+      "googlePrice": 4124,
       "ctripPrice": null,
       "directPrice": null,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 6450,
+      "effectiveCost": 6453,
       "bestOffer": {
         "source": "google",
         "airline": "Gulf Air",
@@ -1537,14 +1544,14 @@
         "destinationAirport": "PVG",
         "departureAt": "2026-10-09T11:20:00+02:00",
         "arrivalAt": "2026-10-11T09:55:00+08:00",
-        "priceCny": 4121,
+        "priceCny": 4124,
         "stops": 1,
         "durationMinutes": 2435,
         "layovers": [],
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Paris%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-09-11T21:21:07.513Z",
+      "capturedAt": "2026-09-12T04:57:04.418Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -2938,6 +2945,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-12T04:57:04.418Z",
+          "google": 4124,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -2946,12 +2960,12 @@
       "label": "米兰",
       "code": "MIL",
       "departureDate": "2026-10-09",
-      "googlePrice": 7215,
+      "googlePrice": 6871,
       "ctripPrice": null,
       "directPrice": null,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 8898,
+      "effectiveCost": 8904,
       "bestOffer": {
         "source": "google",
         "airline": "Aegean and Juneyao Airlines",
@@ -2959,14 +2973,14 @@
         "destinationAirport": "PVG",
         "departureAt": "2026-10-09T19:25:00+02:00",
         "arrivalAt": "2026-10-11T05:05:00+08:00",
-        "priceCny": 7215,
+        "priceCny": 7221,
         "stops": 1,
         "durationMinutes": 1660,
         "layovers": [],
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Milan%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-09-11T21:21:07.513Z",
+      "capturedAt": "2026-09-12T04:57:04.418Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -4374,6 +4388,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-12T04:57:04.418Z",
+          "google": 6871,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -4382,12 +4403,12 @@
       "label": "罗马",
       "code": "ROM",
       "departureDate": "2026-10-09",
-      "googlePrice": 7579,
+      "googlePrice": 7585,
       "ctripPrice": null,
       "directPrice": null,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 9308,
+      "effectiveCost": 9314,
       "bestOffer": {
         "source": "google",
         "airline": "Aegean and Juneyao Airlines",
@@ -4395,14 +4416,14 @@
         "destinationAirport": "PVG",
         "departureAt": "2026-10-09T18:30:00+02:00",
         "arrivalAt": "2026-10-11T05:05:00+08:00",
-        "priceCny": 7579,
+        "priceCny": 7585,
         "stops": 1,
         "durationMinutes": 1715,
         "layovers": [],
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Rome%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-09-11T21:21:07.513Z",
+      "capturedAt": "2026-09-12T04:57:04.418Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -5824,6 +5845,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-12T04:57:04.418Z",
+          "google": 7585,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -5832,12 +5860,12 @@
       "label": "苏黎世",
       "code": "ZRH",
       "departureDate": "2026-10-09",
-      "googlePrice": 8729,
+      "googlePrice": 8737,
       "ctripPrice": null,
       "directPrice": null,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 10571,
+      "effectiveCost": 10579,
       "bestOffer": {
         "source": "google",
         "airline": "Etihad",
@@ -5845,7 +5873,7 @@
         "destinationAirport": "PVG",
         "departureAt": "2026-10-09T21:15:00+02:00",
         "arrivalAt": "2026-10-11T10:05:00+08:00",
-        "priceCny": 8729,
+        "priceCny": 8737,
         "stops": 1,
         "durationMinutes": 1850,
         "layovers": [
@@ -5857,7 +5885,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Zurich%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-09-11T21:21:07.513Z",
+      "capturedAt": "2026-09-12T04:57:04.418Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -7307,6 +7335,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-12T04:57:04.418Z",
+          "google": 8737,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -7315,12 +7350,12 @@
       "label": "维也纳",
       "code": "VIE",
       "departureDate": "2026-10-09",
-      "googlePrice": 7537,
+      "googlePrice": 7543,
       "ctripPrice": null,
       "directPrice": null,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 9608,
+      "effectiveCost": 9614,
       "bestOffer": {
         "source": "google",
         "airline": "Aegean and Juneyao Airlines",
@@ -7328,14 +7363,14 @@
         "destinationAirport": "PVG",
         "departureAt": "2026-10-09T11:40:00+02:00",
         "arrivalAt": "2026-10-11T05:05:00+08:00",
-        "priceCny": 7537,
+        "priceCny": 7543,
         "stops": 1,
         "durationMinutes": 2125,
         "layovers": [],
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Vienna%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-09-11T21:21:07.513Z",
+      "capturedAt": "2026-09-12T04:57:04.418Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -8757,6 +8792,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-12T04:57:04.418Z",
+          "google": 7543,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -8765,12 +8807,12 @@
       "label": "布达佩斯",
       "code": "BUD",
       "departureDate": "2026-10-09",
-      "googlePrice": 7523,
+      "googlePrice": 7524,
       "ctripPrice": null,
       "directPrice": null,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 9231,
+      "effectiveCost": 9232,
       "bestOffer": {
         "source": "google",
         "airline": "Aegean and Juneyao Airlines",
@@ -8778,14 +8820,14 @@
         "destinationAirport": "PVG",
         "departureAt": "2026-10-09T18:55:00+02:00",
         "arrivalAt": "2026-10-11T05:05:00+08:00",
-        "priceCny": 7523,
+        "priceCny": 7524,
         "stops": 1,
         "durationMinutes": 1690,
         "layovers": [],
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Budapest%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-09-11T21:21:07.513Z",
+      "capturedAt": "2026-09-12T04:57:04.418Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -10228,6 +10270,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-12T04:57:04.418Z",
+          "google": 7524,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -10236,12 +10285,12 @@
       "label": "法兰克福",
       "code": "FRA",
       "departureDate": "2026-10-10",
-      "googlePrice": 6936,
+      "googlePrice": 6943,
       "ctripPrice": null,
-      "directPrice": 16917,
+      "directPrice": 16932,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 8094,
+      "effectiveCost": 8101,
       "bestOffer": {
         "source": "google",
         "airline": "Etihad",
@@ -10249,7 +10298,7 @@
         "destinationAirport": "PVG",
         "departureAt": "2026-10-10T10:55:00+02:00",
         "arrivalAt": "2026-10-11T10:05:00+08:00",
-        "priceCny": 6936,
+        "priceCny": 6943,
         "stops": 1,
         "durationMinutes": 1030,
         "layovers": [
@@ -10261,7 +10310,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Frankfurt%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-09-11T21:21:07.513Z",
+      "capturedAt": "2026-09-12T04:57:04.418Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -11718,6 +11767,13 @@
           "ctrip": null,
           "googleDirect": 16917,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-12T04:57:04.418Z",
+          "google": 6943,
+          "ctrip": null,
+          "googleDirect": 16932,
+          "ctripDirect": null
         }
       ]
     },
@@ -11726,12 +11782,12 @@
       "label": "巴黎",
       "code": "PAR",
       "departureDate": "2026-10-10",
-      "googlePrice": 6543,
+      "googlePrice": 6550,
       "ctripPrice": null,
-      "directPrice": 11988,
+      "directPrice": 11999,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 8485,
+      "effectiveCost": 8492,
       "bestOffer": {
         "source": "google",
         "airline": "British Airways and Cathay Pacific",
@@ -11739,7 +11795,7 @@
         "destinationAirport": "SHA",
         "departureAt": "2026-10-10T18:05:00+02:00",
         "arrivalAt": "2026-10-11T20:55:00+08:00",
-        "priceCny": 6543,
+        "priceCny": 6550,
         "stops": 2,
         "durationMinutes": 1250,
         "layovers": [
@@ -11755,7 +11811,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Paris%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-09-11T21:21:07.513Z",
+      "capturedAt": "2026-09-12T04:57:04.418Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -13156,6 +13212,13 @@
           "ctrip": null,
           "googleDirect": 11988,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-12T04:57:04.418Z",
+          "google": 6550,
+          "ctrip": null,
+          "googleDirect": 11999,
+          "ctripDirect": null
         }
       ]
     },
@@ -13164,12 +13227,12 @@
       "label": "米兰",
       "code": "MIL",
       "departureDate": "2026-10-10",
-      "googlePrice": 6349,
+      "googlePrice": 6355,
       "ctripPrice": null,
       "directPrice": null,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 8182,
+      "effectiveCost": 8188,
       "bestOffer": {
         "source": "google",
         "airline": "British Airways and China Southern",
@@ -13177,7 +13240,7 @@
         "destinationAirport": "SHA",
         "departureAt": "2026-10-10T17:40:00+02:00",
         "arrivalAt": "2026-10-11T18:20:00+08:00",
-        "priceCny": 6349,
+        "priceCny": 6355,
         "stops": 2,
         "durationMinutes": 1120,
         "layovers": [
@@ -13193,7 +13256,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Milan%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-09-11T21:21:07.513Z",
+      "capturedAt": "2026-09-12T04:57:04.418Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -14601,6 +14664,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-12T04:57:04.418Z",
+          "google": 6355,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -14609,12 +14679,12 @@
       "label": "罗马",
       "code": "ROM",
       "departureDate": "2026-10-10",
-      "googlePrice": 6436,
+      "googlePrice": 6442,
       "ctripPrice": null,
       "directPrice": null,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 8238,
+      "effectiveCost": 8246,
       "bestOffer": {
         "source": "google",
         "airline": "Etihad",
@@ -14622,7 +14692,7 @@
         "destinationAirport": "PVG",
         "departureAt": "2026-10-10T11:35:00+02:00",
         "arrivalAt": "2026-10-11T10:05:00+08:00",
-        "priceCny": 7113,
+        "priceCny": 7121,
         "stops": 1,
         "durationMinutes": 990,
         "layovers": [
@@ -14634,7 +14704,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Rome%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-09-11T21:21:07.513Z",
+      "capturedAt": "2026-09-12T04:57:04.418Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -16063,6 +16133,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-12T04:57:04.418Z",
+          "google": 6442,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -16071,12 +16148,12 @@
       "label": "苏黎世",
       "code": "ZRH",
       "departureDate": "2026-10-10",
-      "googlePrice": 8729,
+      "googlePrice": 8737,
       "ctripPrice": null,
-      "directPrice": 21527,
+      "directPrice": 26470,
       "priceDifferencePercent": null,
       "trust": "single-source",
-      "effectiveCost": 9875,
+      "effectiveCost": 9883,
       "bestOffer": {
         "source": "google",
         "airline": "Etihad",
@@ -16084,7 +16161,7 @@
         "destinationAirport": "PVG",
         "departureAt": "2026-10-10T11:10:00+02:00",
         "arrivalAt": "2026-10-11T10:05:00+08:00",
-        "priceCny": 8729,
+        "priceCny": 8737,
         "stops": 1,
         "durationMinutes": 1015,
         "layovers": [
@@ -16096,7 +16173,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Zurich%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-09-11T21:21:07.513Z",
+      "capturedAt": "2026-09-12T04:57:04.418Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -17532,6 +17609,13 @@
           "ctrip": null,
           "googleDirect": 21527,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-12T04:57:04.418Z",
+          "google": 8737,
+          "ctrip": null,
+          "googleDirect": 26470,
+          "ctripDirect": null
         }
       ]
     },
@@ -17565,7 +17649,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Vienna%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-09-11T21:21:07.513Z",
+      "capturedAt": "2026-09-12T04:57:04.418Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -19036,6 +19120,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-12T04:57:04.418Z",
+          "google": 5190,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -19070,7 +19161,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Economy%20flights%20from%20Budapest%20to%20Shanghai%20on%202026-10-10%20one%20way%20with%20Air%20China&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-09-11T21:21:07.513Z",
+      "capturedAt": "2026-09-12T04:57:04.418Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
