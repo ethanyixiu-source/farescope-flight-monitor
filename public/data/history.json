@@ -1691,6 +1691,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-20T05:15:34.543Z",
+          "google": 7437,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -3303,6 +3310,13 @@
         },
         {
           "capturedAt": "2026-09-19T21:03:02.016Z",
+          "google": 5256,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-09-20T05:15:34.543Z",
           "google": 5256,
           "ctrip": null,
           "googleDirect": null,
