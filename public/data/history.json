@@ -2076,6 +2076,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-10-06T18:44:52.540Z",
+          "google": 10045,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -4070,6 +4077,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-10-06T18:44:52.540Z",
+          "google": 9514,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -6061,6 +6075,13 @@
         {
           "capturedAt": "2026-10-06T06:41:47.858Z",
           "google": 9692,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-10-06T18:44:52.540Z",
+          "google": 9743,
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
@@ -8069,6 +8090,13 @@
         {
           "capturedAt": "2026-10-06T06:41:47.858Z",
           "google": 9767,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-10-06T18:44:52.540Z",
+          "google": 9745,
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
@@ -10129,6 +10157,13 @@
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-10-06T18:44:52.540Z",
+          "google": 9519,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -12148,6 +12183,13 @@
         {
           "capturedAt": "2026-10-06T06:41:47.858Z",
           "google": 9767,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-10-06T18:44:52.540Z",
+          "google": 9818,
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
@@ -14198,6 +14240,13 @@
         {
           "capturedAt": "2026-10-06T06:41:47.858Z",
           "google": 8221,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-10-06T18:44:52.540Z",
+          "google": 9671,
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
@@ -16258,6 +16307,13 @@
           "ctrip": null,
           "googleDirect": 77305,
           "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-10-06T18:44:52.540Z",
+          "google": 13311,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
         }
       ]
     },
@@ -18258,6 +18314,13 @@
           "google": 9206,
           "ctrip": null,
           "googleDirect": 26989,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-10-06T18:44:52.540Z",
+          "google": 9254,
+          "ctrip": null,
+          "googleDirect": 27131,
           "ctripDirect": null
         }
       ]
@@ -20278,6 +20341,13 @@
         {
           "capturedAt": "2026-10-06T06:41:47.858Z",
           "google": 9307,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-10-06T18:44:52.540Z",
+          "google": 11319,
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
@@ -22314,6 +22384,13 @@
         {
           "capturedAt": "2026-10-06T06:41:47.858Z",
           "google": 11946,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-10-06T18:44:52.540Z",
+          "google": 12009,
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
@@ -24359,6 +24436,13 @@
           "google": 11193,
           "ctrip": null,
           "googleDirect": 31759,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-10-06T18:44:52.540Z",
+          "google": 18441,
+          "ctrip": null,
+          "googleDirect": null,
           "ctripDirect": null
         }
       ]
@@ -26435,6 +26519,13 @@
         {
           "capturedAt": "2026-10-06T06:41:47.858Z",
           "google": 10279,
+          "ctrip": null,
+          "googleDirect": null,
+          "ctripDirect": null
+        },
+        {
+          "capturedAt": "2026-10-06T18:44:52.540Z",
+          "google": 9775,
           "ctrip": null,
           "googleDirect": null,
           "ctripDirect": null
