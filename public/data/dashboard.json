@@ -1,16 +1,16 @@
 {
   "mode": "live",
-  "generatedAt": "2026-10-10T13:04:09.859Z",
-  "latestCompleteAt": "2026-10-10T13:04:09.500Z",
+  "generatedAt": "2026-10-10T22:23:20.786Z",
+  "latestCompleteAt": "2026-10-10T22:23:20.404Z",
   "sourceHealth": {
     "google": {
-      "health": "degraded",
-      "updatedAt": "2026-10-10T13:04:09.500Z",
+      "health": "restricted",
+      "updatedAt": "2026-10-10T22:23:20.404Z",
       "lastError": "TimeoutError"
     },
     "ctrip": {
       "health": "restricted",
-      "updatedAt": "2026-10-10T13:04:09.500Z",
+      "updatedAt": "2026-10-10T22:23:20.404Z",
       "lastError": "results_not_detected"
     }
   },
@@ -45,7 +45,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Frankfurt%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-10-10T13:04:09.500Z",
+      "capturedAt": "2026-10-10T22:23:20.404Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -2207,7 +2207,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Paris%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-10-10T13:04:09.500Z",
+      "capturedAt": "2026-10-10T22:23:20.404Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -4280,7 +4280,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Milan%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-10-10T13:04:09.500Z",
+      "capturedAt": "2026-10-10T22:23:20.404Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -6358,7 +6358,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Rome%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-10-10T13:04:09.500Z",
+      "capturedAt": "2026-10-10T22:23:20.404Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -8452,7 +8452,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Zurich%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-10-10T13:04:09.500Z",
+      "capturedAt": "2026-10-10T22:23:20.404Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -10600,7 +10600,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Vienna%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-10-10T13:04:09.500Z",
+      "capturedAt": "2026-10-10T22:23:20.404Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -12706,7 +12706,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Budapest%20to%20Shanghai%20on%202026-10-09%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-10-10T13:04:09.500Z",
+      "capturedAt": "2026-10-10T22:23:20.404Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -14828,7 +14828,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Frankfurt%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-10-10T13:04:09.500Z",
+      "capturedAt": "2026-10-10T22:23:20.404Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -16985,7 +16985,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Paris%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-10-10T13:04:09.500Z",
+      "capturedAt": "2026-10-10T22:23:20.404Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -19093,7 +19093,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Milan%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-10-10T13:04:09.500Z",
+      "capturedAt": "2026-10-10T22:23:20.404Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -21222,7 +21222,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Rome%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-10-10T13:04:09.500Z",
+      "capturedAt": "2026-10-10T22:23:20.404Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -23365,7 +23365,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Zurich%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-10-10T13:04:09.500Z",
+      "capturedAt": "2026-10-10T22:23:20.404Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -25524,7 +25524,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Flights%20from%20Vienna%20to%20Shanghai%20on%202026-10-10%20one%20way&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-10-10T13:04:09.500Z",
+      "capturedAt": "2026-10-10T22:23:20.404Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
@@ -27715,7 +27715,7 @@
         "deepLink": "https://www.google.com/travel/flights?q=Economy%20flights%20from%20Budapest%20to%20Shanghai%20on%202026-10-10%20one%20way%20with%20Air%20China&curr=CNY&hl=en&gl=CN",
         "trust": "single-source"
       },
-      "capturedAt": "2026-10-10T13:04:09.500Z",
+      "capturedAt": "2026-10-10T22:23:20.404Z",
       "history": [
         {
           "capturedAt": "2026-07-13T03:42:44.710Z",
